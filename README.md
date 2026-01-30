@@ -47,3 +47,37 @@ Connect4tinker/
 │── Connect4Tinker.py
 │── README.md
 │── .idea/
+
+📸 Demo
+
+A demo video and screenshots of the gameplay are shared on my LinkedIn profile.
+
+--
+
+🎓 Internship Context
+
+This project was developed as part of my internship task, with the objective to:
+
+Implement complete game logic
+
+Design an interactive GUI
+
+Apply clean coding practices
+
+Use GitHub for version control
+
+--
+
+🙌 Acknowledgement
+
+Thanks to SystemTron for providing this learning opportunity and guidance during the internship.
+
+--
+
+📬 Contact
+
+For suggestions or feedback, feel free to connect with me on LinkedIn.
+
+--
+
+⭐ If you found this project interesting, don’t forget to give it a star!
